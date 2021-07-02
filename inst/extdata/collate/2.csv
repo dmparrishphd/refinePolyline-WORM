@@ -1,0 +1,7 @@
+"WHERE","R_CODE"
+"internal","inst/extdata/R/segments.xy/1.R"
+"internal","inst/extdata/R/quadrance.segment/1.R"
+"internal","inst/extdata/R/midpoints/1.R"
+"internal","inst/extdata/R/withMidpoints/1.R"
+"internal","inst/extdata/R/PD.refine/1.R"
+"export","inst/extdata/R/refine.xy/2.R"
