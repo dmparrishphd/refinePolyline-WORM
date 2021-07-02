@@ -1,2 +1,3 @@
 # refinePolyline-WORM
-create polylines with additional vertices
+
+[README](https://github.com/dmparrishphd/refinePolyline-CORW/blob/main/README.md).
